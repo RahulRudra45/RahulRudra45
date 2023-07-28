@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rahul Rudra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulrudra45" alt="rahulrudra45" /></a> </p>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **Mongo Db, Express JS ,React JS and NodeJS**
+- 💬 Ask me about **Mongo Db, Express JS , React JS, and NodeJS**
 
 - 📫 How to reach me **rudrarahul77@gmail.com**
 
